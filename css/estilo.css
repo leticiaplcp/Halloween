@@ -1,0 +1,101 @@
+body{
+	background-color: #FBD4FF;
+	margin: 0px;
+}
+#logo img{
+	margin: 10px;
+	width: 280px;
+	height: auto;
+}
+#menu{
+	float: right;
+	margin: 30px;
+	font-family: Papyrus;
+}
+#cabecalho{
+	background-color: #EB7B01;
+}
+#fundo{
+	background-image: url(../imagens/fundo.jpg);
+}
+.principal{
+	text-align: center;
+	margin-top: 170px;
+	padding-bottom: 170px;
+	font-family: Papyrus;
+	font-size: 40px;
+	color: #EB7B01;
+}
+.principal2{
+	margin: 50px 130px 0px 130px;
+	padding: 10px;
+	background-color: #3D0A42;
+	border-radius: 5px;
+}
+.principal-historia{
+	width: 480px;
+	margin: 0px 50px;
+	margin-bottom: 80px;
+	float: left;
+	padding: 10px;
+	text-align: justify;
+	background-color: #BC70BE;
+	border-radius: 5px;
+}
+.principal-historia2{
+	width: 480px;
+	margin: 0px 50px;
+	margin-bottom: 80px;
+	float: right;
+	padding: 10px;
+	text-align: justify;
+	background-color: #BC70BE;
+	border-radius: 5px;
+}
+.principal-historia3{
+	width: 1240px;
+	text-align: justify;
+	color: white;
+}
+.principal-historia img, .principal-historia2 img{
+	width: 480px;
+	height: auto;
+	border-radius: 5px;
+}
+.galeria{
+	border: 10px solid #3D0A32;
+	margin: 20px 130px 0px 130px;
+	padding: 10px;
+	font-size: 20px;
+	text-align: justify;
+	background-color: #C085C2;
+}
+.galeria img{
+	width: 19%;
+	border-radius: 5px;
+	float: left;
+	margin: 10px;
+}
+#rodape img{
+	width: 1520px;
+}
+h1{
+	font-size: 45px;
+	font-family: Papyrus;
+}
+a:link{
+	color: #190733;
+	padding: 10px;
+	text-decoration: none;
+}
+a:visited{
+	color: #4A1057;
+}
+a:hover{
+	color: #EBE6D6;
+	background-color: #3D0A42;
+	border-radius: 5px;
+}
+a:active{
+	color: #7b29e1;
+}
